@@ -1,6 +1,6 @@
 streamlit
 requests
 beautifulsoup4
-duckduckgo-search>=6.0.0
 pandas
 fake-useragent
+lxml
